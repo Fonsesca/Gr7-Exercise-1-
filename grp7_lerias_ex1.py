@@ -1,4 +1,4 @@
-# Gr7-Exercise-1-
+# grp7_lerias_ex1.py
 My first Phyton Script
 
 #Bscs3f
